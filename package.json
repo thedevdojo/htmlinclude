@@ -1,0 +1,26 @@
+{
+  "name": "htmlinclude",
+  "version": "1.0.0",
+  "description": "A simple script allowing you to include html files inside of html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedevdojo/htmlinclude.git"
+  },
+  "keywords": [
+    "html",
+    "include",
+    "includejs",
+    "include",
+    "html"
+  ],
+  "author": "Tony Lea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedevdojo/htmlinclude/issues"
+  },
+  "homepage": "https://github.com/thedevdojo/htmlinclude#readme"
+}
