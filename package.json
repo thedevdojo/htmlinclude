@@ -1,5 +1,5 @@
 {
-  "name": "htmlinclude",
+  "name": "htmlincludejs",
   "version": "1.0.0",
   "description": "A simple script allowing you to include html files inside of html",
   "main": "index.js",
